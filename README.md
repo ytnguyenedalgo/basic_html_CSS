@@ -9,7 +9,6 @@ Build a simple web portfolio with html and css
     <link rel="stylesheet" href="css\style.css">
 </head>
 <body>
-    <image src="Image\WordPress-SiteIcon-08-19.jpg" id="logo" class="center"/>
     <h1 id="ye-work">
         Web Portfolio
     </h1>
@@ -21,8 +20,6 @@ Build a simple web portfolio with html and css
     <h2 id="education">
         Education
     </h2>
-    <image src="Image\Portfolio-Publication-Thumbnail.png"
-        id="education-pic"/>
     <ul>
         <li>B.S. in ChE with a minor in Mathematics</li>
         <li>M.S. in ChE</li>
@@ -30,8 +27,6 @@ Build a simple web portfolio with html and css
     <h2 id="skills">
         Skills
     </h2>
-    <image src="Image\Portfolio-CodeSample-Thumbnail.png"
-        id="skills-pic"/>
     <ul>
         <li><a href="https://github.com/ytnguyenedalgo" target="__blank">Python</a></li>
         <li><a href="http://www.yene.blog" target="__blank">WordPress Development</a></li>
